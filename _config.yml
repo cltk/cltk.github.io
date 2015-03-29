@@ -11,3 +11,5 @@ github_username:  cltk
 # Build settings
 markdown: kramdown
 highlighter: pygments
+gems:
+  - jekyll-redirect-from

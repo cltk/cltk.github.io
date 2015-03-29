@@ -11,7 +11,7 @@ If you are interested in authoring a post, you can send your text (preferably in
 
 To author a new post, simply add a file to to the `_posts` directory, following the convention `YYYY-MM-DD-name-of-post.markdown` and edit in the header the fields `title`, `date`, and `author` (leave `layout` and `categories` alone). 
 
-One note for future contribs, code snippets such as the following are done with the following syntax.
+One note for future contribs, code snippets such as the following are done with the syntax found on this page's source.
 
 {% highlight python %}
 
