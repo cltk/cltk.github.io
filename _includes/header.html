@@ -2,7 +2,10 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+
+    <a class="site-title" href="{{ site.baseurl }}/">
+      <img src="/assets/phoenician_aleph.svg" alt="cltk_logo" class="cltk_logo" align="left" height="42" width="42">{{ site.title }}
+    </a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -19,7 +22,6 @@
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
-        <a class="page-link" href="http://docs.cltk.org">Docs</a>
       </div>
     </nav>
 

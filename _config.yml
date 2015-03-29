@@ -2,11 +2,13 @@
 title: The Classical Language Toolkit
 #email: kyle@kyle-p-johnson.com
 description: > # this means to ignore newlines until "baseurl:"
-  The Classical Language Toolkit (CLTK) offers natural language processing support for Classical languages.
+  NLP for the ancient world
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cltk.org" # the base hostname & protocol for your site
 #twitter_username: kyle_p_johnson
-github_username:  cltk
+github_username: cltk
+github_cltk: kylepjohnson/cltk
+copyright: Ⓒ 2015 Kyle P. Johnson
 
 # Build settings
 markdown: kramdown
