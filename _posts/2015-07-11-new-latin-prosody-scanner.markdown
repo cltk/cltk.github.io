@@ -23,21 +23,20 @@ New College of Florida
 joseph.kirby12@ncf.edu
 
 
-# Docs
 
-## CLTK
+# CLTK Docs
 
-Docs for Latin prosody module: http://docs.cltk.org/en/latest/latin.html#prosody-scanning
+Docs for Latin prosody module: <http://docs.cltk.org/en/latest/latin.html#prosody-scanning>.
 
-Code for Latin prosody module: https://github.com/kylepjohnson/cltk/tree/master/cltk/prosody
-
-
-## Approachable introduction to scansion:
-
-Turpin, William. "Scansion." Dickinson College Commentaries. Accessed July 11, 2015. http://dcc.dickinson.edu/ovid-amores/scansion.
+Code for Latin prosody module: <https://github.com/kylepjohnson/cltk/tree/master/cltk/prosody>.
 
 
-## Comprehensive resources for scansion and prose rhythm:
+# Approachable introduction to scansion:
+
+Turpin, William. "Scansion." Dickinson College Commentaries. Accessed July 11, 2015. <http://dcc.dickinson.edu/ovid-amores/scansion>.
+
+
+# Academic resources for scansion and prose rhythm:
 
 Greenough, J. B., A. A. Howard, G. L. Kittredge, and Benj. L. D'ooge, eds. Allen and Greenough's New Latin Grammar. Boston, Mass.: Ginn &, 1904. §602-614.
 
