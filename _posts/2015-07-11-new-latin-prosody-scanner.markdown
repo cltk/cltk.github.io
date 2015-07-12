@@ -28,7 +28,7 @@ joseph.kirby12@ncf.edu
 
 Docs for Latin prosody module: <http://docs.cltk.org/en/latest/latin.html#prosody-scanning>.
 
-Code for Latin prosody module: <https://github.com/kylepjohnson/cltk/tree/master/cltk/prosody>.
+Code for Latin prosody module: <https://github.com/kylepjohnson/cltk/blob/master/cltk/prosody/latin/scanner.py>.
 
 
 # Approachable introduction to scansion:
