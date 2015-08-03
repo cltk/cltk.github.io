@@ -7,7 +7,7 @@ author: Kyle P. Johnson
 ---
 
 
-Last Fall, I [published on my personal blog](http://kyle-p-johnson.com/blog/2014/12/31/cltk-pos-tagging-cross-validation.html) a series of accuracy scores for the CLTK's POS tagging models. It was recently pointed out to me, by a member of Perseus's treebank tagging team, that the training set I used to make the taggers contained duplicates. This resulted in a skewing of accuracy scores, though not the taggers themselves.
+Last Fall, I [published on my personal blog](http://kyle-p-johnson.com/blog/2014/12/31/cltk-pos-tagging-cross-validation.html) a series of accuracy scores for the CLTK's POS tagging models. It was recently pointed out to me by Dr. Giuseppe G. A. Celano, a member of Perseus's treebank team, that the training set I used to make the taggers contained duplicates. This resulted in a skewing of accuracy scores, though not the taggers themselves.
 
 The Perseus files, [kept here for Greek](https://github.com/cltk/greek_treebank_perseus/tree/master/greek_treebank_perseus) and [here for Latin](https://github.com/cltk/latin_treebank_perseus/tree/master/latin_treebank_perseus), contain a single XML for each tagged work and one file, `agdt-1.7.xml` for Greek and `ldt-1.5.xml` for Latin, for all individual files brought together. In training and testing the taggers, I had combined all XML files in the directory, the works plus their compilation, while I should I have included only the compilation files.
 
@@ -39,4 +39,4 @@ The TnT algorithm returns the best results at 83% accuracy for Greek and 70% for
 
 To get the latest taggers, update your `greek_models_cltk` and `latin_models_cltk` files ([directions here](http://docs.cltk.org/en/latest/importing_corpora.html#importing-a-corpus)).
 
-I give sincere thanks to the Perseus researcher and also apologize to anyone who was mislead by my mistake.
+I give sincere thanks to Giuseppe and also apologize to anyone who was mislead by my mistake.
