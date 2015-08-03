@@ -12,7 +12,7 @@ One of the first tasks necessary in any text analysis projects is [tokenization]
 
 There are four important cases in which Latin word tokenization demands special attention: the enclictics “-que”, “-ue/-ve”, and “-ne” and the postpositive use of “-cum” with the personal pronouns (e.g. nobiscum for *cum nobis). The [Classical Language Toolkit](https://github.com/kylepjohnson/cltk) now takes these cases into consideration when doing Latin word tokenization. Below is a brief how-to on using the CLTK to tokenize your Latin texts by word. [The tutorial assumes the following requirements: [Python3](https://www.python.org/download/releases/3.0/), NLTK3, CLTK.]
 
-## Tokenizing Latin Text with CLTK
+## Tokenizing Latin text with CLTK
 We could simply use Python to `split` our texts into a list of tokens. (And sometimes this will be enough!) So …
 
 > `>>> text = "Arma virumque cano, Troiae qui primus ab oris"`
