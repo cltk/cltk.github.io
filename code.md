@@ -1,5 +1,5 @@
 ---
 title: Code
 redirect_to:
-  - https://github.com/kylepjohnson/cltk
+  - https://github.com/cltk/cltk
 ---
