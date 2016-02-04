@@ -12,6 +12,6 @@ copyright: Ⓒ 2016 Kyle P. Johnson
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 gems:
   - jekyll-redirect-from
