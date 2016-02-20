@@ -11,7 +11,6 @@ github_cltk: cltk/cltk
 copyright: Ⓒ 2016 Kyle P. Johnson
 
 # Build settings
-markdown: kramdown
 highlighter: rouge
 gems:
   - jekyll-redirect-from
