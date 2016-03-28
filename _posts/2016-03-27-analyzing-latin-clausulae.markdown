@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-title:  "Analyzing Latin clausuale"
+title:  "Analyzing Latin clausulae"
 date:   2016-03-27 21:28:00
 author: Tyler Kirby
 ---
