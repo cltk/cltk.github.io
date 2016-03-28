@@ -20,7 +20,7 @@ Potential participants are strongly encouraged to reach out to us directly by em
 
 What follow are some places for students to start the application process.
 
-* [Classial Language Toolkit's GSoC page](https://summerofcode.withgoogle.com/organizations/6380636164063232/). Start here for a bit about our organization's vision, a link to our ideas page ([also here](https://github.com/cltk/cltk/wiki/Project-ideas)), and application directions.
+* [Classical Language Toolkit's GSoC page](https://summerofcode.withgoogle.com/organizations/6380636164063232/). Start here for a bit about our organization's vision, a link to our ideas page ([also here](https://github.com/cltk/cltk/wiki/Project-ideas)), and application directions.
 
 * [Google Summer of Code FAQ](https://developers.google.com/open-source/gsoc/timeline). Note that applications are due on March 25th at 11am PST!
 
