@@ -16,4 +16,4 @@ The Classical Language Toolkit (CLTK) offers natural language processing support
 * Neil Coffee, University at Buffalo (Associate Professor of Classics); [Tesserae](http://tesserae.caset.buffalo.edu/) (Principal Investigator)
 * Gregory Crane, Universität Leipzig (Humboldt Chair of Digital Humanities), Tufts University (Professor of Classics); [Perseus](http://www.perseus.tufts.edu) (Editor–in–Chief) and [Open Philology](http://www.dh.uni-leipzig.de/wo/open-philology-project/) (Director)
 * Peter Meineck, New York University (Associate Professor of Classics); Aquila Theatre (Founder), Ancient Greeks/Modern Lives (Founder, Director)
-* Leonard Muellner, Brandeis University (Professor Emeritus of Classical Studies); Center for Hellenic Studies (Fellow)
+* Leonard Muellner, Brandeis University (Professor Emeritus of Classical Studies); Center for Hellenic Studies (Director of Publications, Information Technology and Libraries)
