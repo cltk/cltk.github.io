@@ -71,3 +71,6 @@ Type 4a | Molossus + Iamb | - - - / u x
 Type 5 | Double Spondee | - - / - x
 Type 5a | Cretic + Double Spondee | - u - / - - / - x
 Type 6 | Dactyl + Spondee | - u u / - x
+
+\\
+For more information, see [Clausulae analyses docs](http://docs.cltk.org/en/latest/latin.html#clausulae-analysis).
