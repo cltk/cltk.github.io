@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-title: "Descartes meet Python. Python meet Descartes."
+title: "Guest post: Descartes meet Python. Python meet Descartes."
 date: 2016-06-12
 author: Peter Aronoff
 ---
