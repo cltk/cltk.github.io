@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CLTK announces GSoC accepted proposals"
+title:  "CLTK announces GSoC 2017 students"
 date:   2017-05-11 07:28:00
 categories: blog
 author: Patrick Burns, Luke Hollis, Marius Jøhndal, Kyle P. Johnson, and Suhaib Khan
@@ -8,9 +8,9 @@ author: Patrick Burns, Luke Hollis, Marius Jøhndal, Kyle P. Johnson, and Suhaib
 
 <img src="/assets/GSoC2016Logo.jpg" alt="GSoC banner" align="center" />
 
-We're happy to announce two exceptional students, Charles Pletcher and Natasha Voake, and their projects, whom the CLTK will mentor for the 2017 Google Summer of Code. ([See official GSoC page here](https://summerofcode.withgoogle.com/organizations/5734549993553920/).)
+We're happy to announce two exceptional students, Charles Pletcher and Natasha Voake, whom the CLTK will mentor for the 2017 Google Summer of Code. ([See official GSoC page here](https://summerofcode.withgoogle.com/organizations/5734549993553920/).)
 
-At the end of the summer, if not before, we will offer updates on what Charles and Natasha accomplish.
+By the end of the summer, if not before, we will offer updates on what Charles and Natasha accomplish.
 
 
 ## Charles Pletcher
