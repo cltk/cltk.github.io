@@ -11,6 +11,11 @@ The Classical Language Toolkit (CLTK) offers natural language processing (NLP) s
 *   collect and generate linguistic data;
 *   act as a free and open platform for generating scientific research.
 
+## Development leadership
+* [Patrick J. Burns](https://diyclassics.github.io): Latin language and literature
+* [Luke Hollis](http://lukehollis.org): [CLTK Archive](http://archive.cltk.org)
+* [Kyle P. Johnson](http://kyle-p-johnson.com): NLP, core Python library
+
 ## Academic Advisors
 
 * Neil Coffee, University at Buffalo (Associate Professor of Classics); [Tesserae](http://tesserae.caset.buffalo.edu/) (Principal Investigator)
