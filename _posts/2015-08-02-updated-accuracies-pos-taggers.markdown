@@ -4,6 +4,9 @@ categories: blog
 title:  "Updated accuracies for POS taggers"
 date:   2015-08-02 15:00:00
 author: Kyle P. Johnson
+redirect_from:
+  - /post/a
+  - /blog/2015/08/02/corrected-stats-pos-tagger-accuracy.html
 ---
 
 
