@@ -14,8 +14,8 @@ The Classical Language Toolkit (CLTK) offers natural language processing (NLP) s
 
 ## Development leadership
 * [CLTK Archive](http://archive.cltk.org): [Luke Hollis](http://lukehollis.org) (Founder, Archimedes Digital)
-* Core Python library: [Kyle P. Johnson](http://kyle-p-johnson.com) (Principal Research Scientist, Accenture)
-* Latin language: [Patrick J. Burns](https://diyclassics.github.io) (Assistant Research Scholar, Institute for the Study of the Ancient World at New York University)
+* NLP: [Kyle P. Johnson](http://kyle-p-johnson.com) (Principal Research Scientist, Accenture)
+* Languages: [Patrick J. Burns](https://diyclassics.github.io) (Assistant Research Scholar, Institute for the Study of the Ancient World at New York University)
 
 
 ## Academic Advisors
