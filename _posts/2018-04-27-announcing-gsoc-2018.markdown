@@ -10,9 +10,9 @@ author: Patrick Burns and Kyle P. Johnson
 
 The Classical Language Toolkit is happy to present our Google Summer of Code projects for 2018:
 
+- Eleftheria Chatziargyriou (Aristotle University of Thessaloniki): Extending NLP functionality for Germanic Languages.
 - Andrew Deloucas (Harvard University): The Road to CDLI’s Corpora Integration into CLTK: An Undertaking
 - James Gawley (University of Buffalo): Expanding the CLTK with Synonyms, Translations and Word Embeddings
-- Eleftheria Chatziargyriou (Aristotle University of Thessaloniki): Extending NLP functionality for Germanic Languages.
 
 As we see it, this year’s projects each have the potential to move the CLTK forward in its own way.
 
