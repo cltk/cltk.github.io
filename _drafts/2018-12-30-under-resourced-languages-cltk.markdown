@@ -45,8 +45,15 @@ Is there some limited data creation that could fall within scope of the CLTK? We
 
 [comment]: <> (the sweet spot, for most exploitation: well resourced languages which are not currently covered well (or at all) by the CLTK; ideas: maybe Hebrew, Sanskrit, Chinese, however each pose significant challenges -- though not insurmountable, we hope -- which potential contribs need to account for)
 
-All the above is intentionally discouraging of those who might want to disembark on an ill-fated proposal to add new language support to the CLTK. On the flip side, we ought to highlight that there are several shining examples of languages I might consdider well-resourced and not currently covered by the CLTK. Those are, in no particular order: Sanskrit, Hebrew, Classical Chinese, and Old English.<sup>[2](#myfootnote2)</sup>
+All the above is intentionally discouraging of those who might want to disembark on an ill-fated proposal to add new language support to the CLTK. On the flip side, we ought to highlight that there are several shining examples of languages I might consdider well-resourced and not currently covered by the CLTK. Those are, in no particular order: Sanskrit, Hebrew, Classical Chinese, and Old English.<sup>[2](#myfootnote2)</sup> To conclude, I encourage those who would like to work with a mentor from our team, to first consider and have preliminary answers to the following questions:
+1. What free data sets are available? If there any non-free or ambiguously licensed language resources, are they important enough to researchers that we would leverage them?
+2. What NLP algorithms can I write with this data?
+3. What free NLP algorithms have already been written? Do I have the skills, approximately, re-implement them?
+4. What data am I missing and is it reasonable to create this data within the project? Define very precise scoping and make an effort estimate.
+5. Do you have the language skills to validate your own research? If not, have you identified another (say, a professor) who would be able to help? Please remember that the CLTK is exclusively interested in the *pre-modern* form of a language; so for example even though Hindi may be considered an "classical" language, its form as spoken today differs greatly (or so I am told) from how it was written 1,000 years ago.
+6. How do you rate your skills in programming in Python, machine learning, and NLP? We have and do work with various types of specialists (some more human language, some more computer), however knowing your particular background helps to pair you with the right mentor.
 
+With these questions answered, even if not perfectly, the core CLTK will be able to respond with concrete advice, criticism, and recommendations of further resources.
 
 
 <a name="myfootnote1">1</a>: From the Under-resourced Languages group of the European Language Resources Association (ELRA).
