@@ -25,23 +25,31 @@ The CLTK is an NLP project, and it eschews ventures outside of this mission. Cas
 Having explained what a language resource is and why they are so important to the CLTK, I will here explain the states in which under-resourced languages (especially dead) exist and how a potential contributor can discover whether a language of interest is one. Languages generally fail to meet the minimum bar of "resourced" due to one or more of the following attributes:
 1. resources are not digitized; 
 2. resources are only available under non-free licenese; 
-3. or resources are available but do not amount to a "critical mass" around which serious NLP tooling may be developed.
+3. resources are available but do not amount to a "critical mass" around which serious NLP tooling may be developed.
 
 [comment]: <> (1. do not exist)
 First, simply enough, if data has not been digitized, then it is not available for computational processing. As mentioned above, digitized images of books is quite a distance still from even plaintext files of digitized characters.
 
 [comment]: <> (2. under non-free licenses)
-Second, non-free ...
- 
+Second, non-free data poses a significant problem. My use of "free" here corresponds generally to that laid down by Richard Stallman as something more particular than no-cost and open source:
+
+> When we call software “free,” we mean that it respects the users' essential freedoms: the freedom to run it, to study and change it, and to redistribute copies with or without changes. This is a matter of freedom, not price, so think of "free speech," not "free beer." (["Why Open Source misses the point of Free Software"](https://www.gnu.org/philosophy/open-source-misses-the-point.html))
+
+Intended to support rigorous quantitative scholarship, users of the CLTK simply must have the ability to manipulate and redistribute the data used to create results. Contrary to the understanding of many humanists I have met, "open access" and "open source" resources that retain have proprietary licenses are unstable foundations for serious projects like ours, the legacy of which (we hope) will be measured in decades, not years. It is undeniably practical for a scholar to quickly publish an article which uses proprietary data or software, however his results will likely not be reproducible, frozen in time, and lost to history.
+
 [comment]: <> (3. some, but not a critical mass; but what is a critical mass?)
 Third, The line between a resourced and under-resourced language is not always clear-cut. For exmaple, there could be annotations available, however they be of a rather small in number (the case with [Tibetan POS](https://github.com/cltk/tibetan_pos_tdc)); or some data sets be very robust for some tasks (e.g., a lexicon and word-lookup) however be completely lacking treebanks (Pali); or in the absence of any digitized data, certain within-reach algorithms may be written. Todd's Latin syllabifier, mentioned above, is a successful example of someone creating a new algorithm specifically for the CLTK. In this particular case, I attribute Todd's success a combination of the following factors: his knowing the Latin language well, the language being very well researched in general, other lower-level NLP tools upon which he could leverage if necessary, the task being narrowly scoped, and his own programming expertise.
 
-
 [comment]: <> (What kind of data-creation should be done by the CLTK? example: stopwords, semi-supervised ML tagging)
-
+Is there some limited data creation that could fall within scope of the CLTK? We have had some success, for example, in generating stopword lists either according to specific algorithms minimizing manual curation (e.g., run tf-idf on a corpus and removing nouns) or with very narrow scope (e.g., typing every possible inflection of a definite article). I don't want to preclude the possibility of others, so I would generalize that this issue ought to be evaluated on a case-by-case basis.
 
 [comment]: <> (the sweet spot, for most exploitation: well resourced languages which are not currently covered well (or at all) by the CLTK; ideas: maybe Hebrew, Sanskrit, Chinese, however each pose significant challenges -- though not insurmountable, we hope -- which potential contribs need to account for)
+
+All the above is intentionally discouraging of those who might want to disembark on an ill-fated proposal to add new language support to the CLTK. On the flip side, we ought to highlight that there are several shining examples of languages I might consdider well-resourced and not currently covered by the CLTK. Those are, in no particular order: Sanskrit, Hebrew, Classical Chinese, and Old English.<sup>[2](#myfootnote2)</sup>
 
 
 
 <a name="myfootnote1">1</a>: From the Under-resourced Languages group of the European Language Resources Association (ELRA).
+
+<a name="myfootnote2">2</a>: Old and Middle English have good footing, due to the major pre-modern Germanic contributions by Eleftheria Chatziargyriou and Clément Besnier, however relative to the huge amounts of source data, lots of valuable work remains.
+
