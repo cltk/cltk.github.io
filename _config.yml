@@ -12,5 +12,5 @@ copyright: Ⓒ 2016 Kyle P. Johnson
 
 # Build settings
 highlighter: rouge
-gems:
+plugins:
   - jekyll-redirect-from
