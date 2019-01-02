@@ -45,7 +45,7 @@ Is there some limited data creation that could fall within scope of the CLTK? We
 [comment]: <> (the sweet spot, for most exploitation: well resourced languages which are not currently covered well (or at all) by the CLTK; ideas: maybe Hebrew, Sanskrit, Chinese, however each pose significant challenges -- though not insurmountable, we hope -- which potential contribs need to account for)
 
 All the above is intentionally discouraging of those who might want to disembark on an ill-fated proposal to add new language support to the CLTK. On the flip side, we ought to highlight that there are several shining examples of languages I might consdider well-resourced and not currently covered by the CLTK. Those are, in no particular order: Hebrew, Arabic, Sanskrit, Chinese, and Old English.<sup>[2](#myfootnote2)</sup> (There are likely others, too.) To conclude, I encourage those who would like to work with a mentor from our team, to first consider and have preliminary answers to the following questions:
-1. What free data sets are available? If there any non-free or ambiguously licensed language resources, are they so important that we would need to use them?
+1. What free data sets are available? If any non-free or ambiguously licensed language resources, are they so important that we would need to use them?
 2. What NLP algorithms can I write with this data?
 3. What free NLP algorithms have already been written? Do I have the skills, approximately, to re-implement them?
 4. What data am I missing and is it reasonable to create this data within the project? Define very precise scoping and make an effort estimate.
