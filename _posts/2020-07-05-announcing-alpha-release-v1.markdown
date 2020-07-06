@@ -6,7 +6,7 @@ categories: blog
 author: Kyle P. Johnson
 ---
 
-The core maintainers are pleased to announce the first pre-release of the CLTK's version 1.0. More information will follow, but at the highest level the guiding principles have been (a) to add a single pre-configured interface and (b) to fully rationalize software's achitecture for adding new languages with a minimum of friction.
+The core maintainers are pleased to announce the first pre-release of the CLTK's version 1.0. More information will follow, but at the highest level the guiding principles have been (a) to add a single pre-configured interface and (b) to fully rationalize software's architecture for adding new languages with a minimum of friction.
 
 Preferably in a new virtual environment, in either Python 3.7 or 3.8, pull the latest "alpha" with:
 
