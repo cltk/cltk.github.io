@@ -2,20 +2,14 @@
 layout: default
 ---
 
-The Classical Language Toolkit (CLTK) offers natural language processing (NLP) support for the languages of Ancient, Classical, and Medieval Eurasia. Greek, Latin, Akkadian, and the Germanic languages are currently most complete.
-
-
-## Goals
-
-*   compile analysis-friendly corpora;
-*   collect and generate linguistic data;
-*   act as a free and open platform for generating scientific research.
-
+The Classical Language Toolkit (CLTK) is a Python library offering natural language processing (NLP) for the languages of pre–modern Eurasia. Pre-configured pipelines are available for 19 languages.
 
 ## Development leadership
-* Online projects: [Luke Hollis](http://lukehollis.org) (Founder, Archimedes Digital)
-* Core software, NLP: [Kyle P. Johnson](http://kyle-p-johnson.com) (Principal Research Scientist, Accenture)
-* Languages: [Patrick J. Burns](https://diyclassics.github.io) (Assistant Research Scholar, Institute for the Study of the Ancient World at New York University)
+
+* [Kyle P. Johnson](https://github.com/kylepjohnson)
+* [Patrick J. Burns](https://github.com/diyclassics)
+* [John Stewart](https://github.com/free-variation)
+* [Todd Cook])https://github.com/todd-cook)
 
 
 ## Academic Advisors
