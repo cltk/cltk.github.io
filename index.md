@@ -10,6 +10,8 @@ The Classical Language Toolkit (CLTK) is a Python library offering natural langu
 * [Patrick J. Burns](https://github.com/diyclassics)
 * [John Stewart](https://github.com/free-variation)
 * [Todd Cook](https://github.com/todd-cook)
+* [Clément Besnier](https://github.com/clemsciences)
+* [William J. B. Mattingly](https://github.com/wjbmattingly)
 
 
 ## Academic Advisors
