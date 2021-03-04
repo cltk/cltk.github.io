@@ -14,7 +14,7 @@ See our organization's [official GSoC page](https://summerofcode.withgoogle.com/
 
 > See our [Project ideas page](https://github.com/cltk/cltk/wiki/Project-ideas#gsoc-projects) for a list of GSOC tasks that are suited to three months' work for a beginning–to–intermediate programmer or language student. What follows is a high–level overview of these projects and a few tips in applying. Most work will be done in the Python and JavaScript languages, of which a beginner's or intermediate knowledge is expected.
 > 
-> If you know a Classical language that is not yet supported well by the CLTK (e.g., Hebrew, Sanskrit, Chinese), you may follow the pattern set by the current Greek and Latin libraries. See the Projects page on the wiki for ideas of what a good application will include. See also [the CLTK docs](http://docs.cltk.org) for what we can already do for a given language.
+> If you know a Classical language that is not yet supported well by the CLTK (e.g., Hebrew, Sanskrit, Chinese), you may follow the pattern set by the current Greek and Latin libraries. See the Projects page on the wiki for ideas of what a good application will include. See also [the CLTK docs](http://legacy.cltk.org) for what we can already do for a given language.
 > 
 > The other family of tasks regards the CLTK's in–development website, the Classical Language Archive ([in Meteor and React](https://github.com/cltk/cltk_frontend)) and API ([in Python's Flask framework](https://github.com/cltk/cltk_api_v2)). See our description of the frontend, experiment with the live demo, and explain in your application which functionality you would most like to see added, why, and how you will do so over the course of three months.
 > 

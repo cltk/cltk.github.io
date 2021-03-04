@@ -1,5 +1,5 @@
 ---
-title: Docs (v1.0)
+title: Docs
 redirect_to:
-  - https://dev.cltk.org
+  - https://docs.cltk.org
 ---

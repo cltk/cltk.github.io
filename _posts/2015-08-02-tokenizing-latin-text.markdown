@@ -45,6 +45,6 @@ Using the CLTK WordTokenizer for Latin we retain the punctuation and split the s
 More on tokenization:
 
 * [Processing Raw Text in the NLTK book](http://www.nltk.org/book/ch03.html)
-* [CLTK documentation for WordTokenizer](http://docs.cltk.org/en/latest/latin.html#word-tokenization)
+* [CLTK documentation for WordTokenizer](http://legacy.cltk.org/en/latest/latin.html#word-tokenization)
 * [Text Mining Online](http://textminingonline.com/dive-into-nltk-part-ii-sentence-tokenize-and-word-tokenize)
 * [Text Analysis with Topic Models for the Humanities and Social Sciences](https://de.dariah.eu/tatom/preprocessing.html#tokenizing)

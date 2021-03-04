@@ -40,6 +40,6 @@ The testing corpus I had used, however, was considerably skewed. Essentially, th
 
 The TnT algorithm returns the best results at 83% accuracy for Greek and 70% for Latin. These are not bad scores, it seems to me, however they are something of a letdown from scores in the high 90's which I claimed earlier!
 
-To get the latest taggers, update your `greek_models_cltk` and `latin_models_cltk` files ([directions here](http://docs.cltk.org/en/latest/importing_corpora.html#importing-a-corpus)).
+To get the latest taggers, update your `greek_models_cltk` and `latin_models_cltk` files ([directions here](http://legacy.cltk.org/en/latest/importing_corpora.html#importing-a-corpus)).
 
 I give sincere thanks to Giuseppe and also apologize to anyone who was mislead by my mistake.

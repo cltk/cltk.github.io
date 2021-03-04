@@ -73,4 +73,4 @@ Type 5a | Cretic + Double Spondee | - u - / - - / - x
 Type 6 | Dactyl + Spondee | - u u / - x
 
 \\
-For more information, see [Clausulae analyses docs](http://docs.cltk.org/en/latest/latin.html#clausulae-analysis).
+For more information, see [Clausulae analyses docs](http://legacy.cltk.org/en/latest/latin.html#clausulae-analysis).
