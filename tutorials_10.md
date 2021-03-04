@@ -1,5 +1,5 @@
 ---
-title: Tutorials (v1.0)
+title: Tutorials
 redirect_to:
   - https://github.com/cltk/cltk/tree/dev/notebooks
 ---

@@ -12,9 +12,9 @@ With any lemmatizer, choices must be made about which headword to select in the 
 
 The logic I use in the above algorithms is sound, however of course this will not be without flaws. I believe that the best way to improve these lemma-headword lists is to manually write corrections, which will be run over the automatically built file. Any corrections should be submitted to the [CLTK's issues tracker](https://github.com/kylepjohnson/cltk/issues).
 
-Docs for use of the Greek lemmatizer: <http://docs.cltk.org/en/latest/greek.html#lemmatization>
+Docs for use of the Greek lemmatizer: <http://legacy.cltk.org/en/latest/greek.html#lemmatization>
 
-Docs for use of the Latin lemmatizer: <http://docs.cltk.org/en/latest/latin.html#lemmatization>
+Docs for use of the Latin lemmatizer: <http://legacy.cltk.org/en/latest/latin.html#lemmatization>
 
 Code repository for making Greek lemma-headword list: <https://github.com/cltk/greek_lexica_perseus>
 
