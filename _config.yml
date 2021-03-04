@@ -8,7 +8,7 @@ url: "http://cltk.org" # the base hostname & protocol for your site
 #twitter_username: kyle_p_johnson
 github_username: cltk
 github_cltk: cltk/cltk
-copyright: Ⓒ 2019 Kyle P. Johnson
+copyright: Ⓒ 2021 Kyle P. Johnson
 
 # Build settings
 highlighter: rouge
