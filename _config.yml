@@ -2,7 +2,7 @@
 title: The Classical Language Toolkit
 #email: kyle@kyle-p-johnson.com
 description: > # this means to ignore newlines until "baseurl:"
-  NLP for the ancient world
+  NLP for pre-modern languages
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cltk.org" # the base hostname & protocol for your site
 #twitter_username: kyle_p_johnson
