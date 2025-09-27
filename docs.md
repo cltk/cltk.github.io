@@ -1,5 +1,5 @@
 ---
-title: Legacy Docs (v0.1.x)
+title: Docs
 redirect_to:
-  - https://legacy.cltk.org
+  - https://docs.cltk.org
 ---
