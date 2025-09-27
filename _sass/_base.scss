@@ -21,6 +21,7 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    color-scheme: dark;
 }
 
 
@@ -97,7 +98,7 @@ a {
     }
 
     &:hover {
-        color: $text-color;
+        color: $accent-color;
         text-decoration: underline;
     }
 }

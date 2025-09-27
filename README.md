@@ -1,6 +1,30 @@
 # cltk.github.io
-Static website for CLTK organization, built with Jekyll
+Static website for the CLTK organization, built with Jekyll and deployed via GitHub Pages Actions.
 
-To update the app, add or edit files and GitHub will build and serve them at <http://cltk.org>.
+## Local development
 
-The app was set up according the instructions at: <https://help.github.com/articles/using-jekyll-with-pages>.
+Prereqs: Ruby and Bundler.
+
+1) Install deps
+
+```
+bundle install
+```
+
+2) Serve locally
+
+```
+bundle exec jekyll serve
+```
+
+Site builds to `_site` and serves at `http://127.0.0.1:4000`.
+
+## Deployment
+
+Pushes to the `master` branch trigger the GitHub Actions Pages workflow, which builds with the `github-pages` gem and deploys to GitHub Pages.
+
+Custom domain is configured via `CNAME` for `https://cltk.org`.
+
+## CI: Link checking
+
+Pull requests run an internal link check using `html-proofer` against the built `_site`.
