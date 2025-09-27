@@ -133,6 +133,7 @@ code {
     border-radius: 3px;
     background-color: $code-bg-color; // dark code background
     color: $text-color;               // readable on dark bg
+    font-family: $code-font-family;
 }
 
 code {
