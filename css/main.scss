@@ -10,7 +10,7 @@ img.cltk_logo {
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: 'Noto Serif', Georgia, serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -31,6 +31,10 @@ $content-width:    800px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
+
+// Code colors (dark mode)
+$code-bg-color:    hsl(225, 15%, 18%);
+$code-font-family: 'Noto Sans Mono', 'SFMono-Regular', Consolas, Menlo, monospace;
 
 
 
